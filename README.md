@@ -1,12 +1,10 @@
 # API REST Biblioteca
 
 **Estudiante:** Juan Camilo Lopez Diaz  
-**Tecnología:** Spring Boot + MongoDB Atlas  
-**Versión:** Java 17
 
 ## Descripción
 
-API RESTful para la gestión de una biblioteca desarrollada con Spring Boot y MongoDB Atlas. Implementa operaciones CRUD completas para la gestión de libros.
+Taller api rest spring boot - Diseño de Software
 
 ## Endpoints
 
@@ -17,13 +15,6 @@ API RESTful para la gestión de una biblioteca desarrollada con Spring Boot y Mo
 | GET | `/api/libros/{id}` | Consultar libro por ID |
 | PUT | `/api/libros/{id}` | Actualizar libro existente |
 | DELETE | `/api/libros/{id}` | Eliminar un libro |
-
-## Tecnologías Utilizadas
-
-- **Spring Boot 3.3** - Framework principal
-- **MongoDB Atlas** - Base de datos en la nube
-- **Maven** - Gestión de dependencias
-- **Lombok** - Reducción de código repetitivo
 
 ## Capturas de Pantalla
 
